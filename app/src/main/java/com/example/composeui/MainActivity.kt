@@ -43,7 +43,7 @@ fun DefaultPreview() {
         Box(
             modifier = Modifier
                 .fillMaxWidth()
-                .height(100.dp),
+                .height(100.dp)
         ) {
             Column(
                 modifier = Modifier.padding(all = 10.dp)
