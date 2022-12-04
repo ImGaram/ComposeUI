@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">ComposeUI</string>
     <string name="title_activity_practice">PracticeActivity</string>
+    <string name="title_activity_practice2">PracticeActivity2</string>
 </resources>
